@@ -38,6 +38,9 @@ The Expense Tracker App is a Flutter-based mobile application designed to help u
 ![image](https://github.com/Shivansh722/expense_tracker/assets/113300509/91f27e87-f71b-48c1-97cb-8561cd8e0b66)
 
 
+## Author
+- Shivansh Chaturvedi
+
 
 
 
